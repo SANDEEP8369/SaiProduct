@@ -1,0 +1,188 @@
+{
+  "settings": {
+    "businessName": "Yellowline Equipment",
+    "heroTitle": "Buy quality construction equipment.",
+    "heroText": "Cranes, mixers and hoists with full specifications and clear prices. Need a machine for a short job only? Many of them are available to rent too.",
+    "offerRental": true,
+    "rentalNote": "Rent by the day or month instead of buying. Message us for availability, delivery and deposit details.",
+    "phone": "+91 99999 99999",
+    "whatsapp": "919999999999",
+    "email": "hello@example.com",
+    "address": "Your workshop address, City, State",
+    "serviceArea": "",
+    "mapsUrl": "",
+    "instagram": "https://instagram.com/yourpage",
+    "facebook": "https://facebook.com/yourpage",
+    "youtube": "",
+    "heroImage": "",
+    "stats": [],
+    "reviews": [],
+    "gallery": []
+  },
+  "equipment": [
+    {
+      "id": "tower-crane-tc5013",
+      "name": "Tower Crane TC5013",
+      "category": "Cranes",
+      "forSale": true,
+      "salePrice": 4200000,
+      "condition": "New",
+      "status": "Made to order",
+      "forRent": true,
+      "rentPrice": 185000,
+      "rentUnit": "month",
+      "capacity": "6 t max load",
+      "art": "crane",
+      "summary": "Free-standing tower crane for mid-rise and high-rise building work. Installation support available.",
+      "features": [
+        "Free-standing height up to 40 m",
+        "50 m jib with 1.3 t tip load",
+        "Installation and dismantling support",
+        "Spare parts and service available"
+      ],
+      "specs": [
+        { "k": "Max load", "v": "6 t" },
+        { "k": "Tip load", "v": "1.3 t" },
+        { "k": "Jib length", "v": "50 m" },
+        { "k": "Power supply", "v": "3-phase 415 V" }
+      ],
+      "images": []
+    },
+    {
+      "id": "monkey-crane-500",
+      "name": "Monkey Crane 500 kg",
+      "category": "Hoists",
+      "forSale": true,
+      "salePrice": 58000,
+      "condition": "New",
+      "status": "In stock",
+      "forRent": true,
+      "rentPrice": 1200,
+      "rentUnit": "day",
+      "capacity": "500 kg",
+      "art": "monkey",
+      "summary": "Compact mast hoist for lifting bricks, cement bags and tiles to upper floors on low-rise and renovation jobs.",
+      "features": [
+        "Compact mast fits tight sites",
+        "Electric winch with limit switch",
+        "Set up on a single floor slab",
+        "Lifts material in a bucket or on a platform"
+      ],
+      "specs": [
+        { "k": "Capacity", "v": "500 kg" },
+        { "k": "Lifting height", "v": "Up to 45 m" },
+        { "k": "Motor", "v": "5 HP electric" },
+        { "k": "Rope", "v": "8 mm steel wire" }
+      ],
+      "images": []
+    },
+    {
+      "id": "concrete-mixer-hopper-10-7",
+      "name": "Concrete Mixer with Hopper 10/7",
+      "category": "Mixers",
+      "forSale": true,
+      "salePrice": 105000,
+      "condition": "New",
+      "status": "In stock",
+      "forRent": true,
+      "rentPrice": 650,
+      "rentUnit": "day",
+      "capacity": "10/7 cu ft drum",
+      "art": "mixer",
+      "summary": "Hydraulic hopper mixer that loads material straight into the drum. Towable on site with heavy-duty wheels.",
+      "features": [
+        "Hydraulic hopper lifts material into the drum",
+        "Diesel or electric motor options",
+        "Replaceable mixing blades",
+        "Rubber wheels for easy movement on site"
+      ],
+      "specs": [
+        { "k": "Drum capacity", "v": "10/7 cu ft" },
+        { "k": "Approx. output", "v": "4 m³ per hour" },
+        { "k": "Engine", "v": "Diesel 8 HP" }
+      ],
+      "images": []
+    },
+    {
+      "id": "reversible-drum-mixer-14-10",
+      "name": "Reversible Drum Mixer 14/10",
+      "category": "Mixers",
+      "forSale": true,
+      "salePrice": 125000,
+      "condition": "New",
+      "status": "In stock",
+      "forRent": false,
+      "rentPrice": 0,
+      "rentUnit": "day",
+      "capacity": "14/10 cu ft drum",
+      "art": "mixer",
+      "summary": "Reversible drum mixer for consistent mixes on larger pours.",
+      "features": [
+        "Reversible drum for fast, even mixing",
+        "Gearbox sealed against cement dust",
+        "Heavy steel frame",
+        "Warranty on gearbox and motor"
+      ],
+      "specs": [
+        { "k": "Drum capacity", "v": "14/10 cu ft" },
+        { "k": "Motor", "v": "7.5 HP electric" },
+        { "k": "Weight", "v": "620 kg" }
+      ],
+      "images": []
+    },
+    {
+      "id": "backhoe-loader",
+      "name": "Backhoe Loader",
+      "category": "Earthmoving",
+      "forSale": true,
+      "salePrice": 2200000,
+      "condition": "Used",
+      "status": "In stock",
+      "forRent": true,
+      "rentPrice": 9000,
+      "rentUnit": "day",
+      "capacity": "1.0 m³ loader bucket",
+      "art": "excavator",
+      "summary": "All-round digging and loading machine for foundations, trenching and site levelling. Rental price is for an 8-hour day.",
+      "features": [
+        "Front loader and rear digging arm",
+        "Inspected and serviced before sale",
+        "Delivered by trailer on request",
+        "Operator available for rental"
+      ],
+      "specs": [
+        { "k": "Loader bucket", "v": "1.0 m³" },
+        { "k": "Dig depth", "v": "4.5 m" },
+        { "k": "Engine", "v": "76 HP diesel" }
+      ],
+      "images": []
+    },
+    {
+      "id": "hydra-mobile-crane-14t",
+      "name": "Hydra Mobile Crane 14 t",
+      "category": "Cranes",
+      "forSale": true,
+      "salePrice": 1850000,
+      "condition": "Used",
+      "status": "In stock",
+      "forRent": true,
+      "rentPrice": 6500,
+      "rentUnit": "day",
+      "capacity": "14 t",
+      "art": "truck",
+      "summary": "Truck-mounted pick-and-carry crane for loading, shifting and placing heavy material across a site.",
+      "features": [
+        "Telescopic boom with 360° swing",
+        "Moves loads between sites without a trailer",
+        "Inspected and serviced before sale",
+        "Operator available for rental"
+      ],
+      "specs": [
+        { "k": "Lifting capacity", "v": "14 t" },
+        { "k": "Boom length", "v": "20 m" },
+        { "k": "Chassis", "v": "6-wheel truck" }
+      ],
+      "images": []
+    }
+  ]
+}
